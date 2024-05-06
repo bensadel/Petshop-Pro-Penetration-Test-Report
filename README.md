@@ -17,11 +17,10 @@ Link: https://ctf.hacker101.com/ctf
   <img src="https://github.com/bensadel/Petshop-Pro---Hacker101/assets/95494769/ad80f01e-51c8-4a06-9912-7d5bb6e41adc">
 </p>
 <p align="center">
-  <img src="https://github.com/bensadel/Petshop-Pro---Hacker101/assets/95494769/3a8f9006-cb4c-46bb-9d00-df1a86af6a39">
+  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/7a3692bc-91b2-402e-85bf-80bd8c85e363">
 </p>
 
 <h2> Flag 2 </h2>
-
 
 
 
