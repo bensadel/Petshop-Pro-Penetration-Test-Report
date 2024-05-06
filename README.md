@@ -1,6 +1,6 @@
 # Petshop-Pro - Hacker101
 
-Flag 1: 
+<h1> Flag 1: </h1>
 
 <p align="center">
   <img src="https://github.com/bensadel/Petshop-Pro---Hacker101/assets/95494769/bee05474-e2ab-4d5e-acd3-99a87e096055">
