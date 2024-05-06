@@ -2,7 +2,7 @@
 
 Link: https://ctf.hacker101.com/ctf 
 
-<h2> Flag 1: </h2>
+<h2 style="text-align: center;"> Flag 1 </h2>
 
 <p align="center">
   <img src="https://github.com/bensadel/Petshop-Pro---Hacker101/assets/95494769/bee05474-e2ab-4d5e-acd3-99a87e096055">
@@ -19,6 +19,8 @@ Link: https://ctf.hacker101.com/ctf
 <p align="center">
   <img src="https://github.com/bensadel/Petshop-Pro---Hacker101/assets/95494769/3a8f9006-cb4c-46bb-9d00-df1a86af6a39">
 </p>
+
+<h2> Flag 2 </h2>
 
 
 
