@@ -22,7 +22,6 @@ Link: [https://ctf.hacker101.com/ctf](https://ctf.hacker101.com/)
   <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/a5b42c9c-decc-48ed-89a7-e7852e623db5">
 </p>
 
-
 <h2> Flag 2 </h2>
 
 <p align="center">
