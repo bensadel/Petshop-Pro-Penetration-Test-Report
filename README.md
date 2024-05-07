@@ -7,10 +7,10 @@ Link: [https://ctf.hacker101.com/ctf](https://ctf.hacker101.com/)
 <h2> Flag 1 </h2>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/afba3a4a-4e2a-4d2f-adde-ea3c03ea8809">
 </p>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/d181e7f1-2af2-451b-a304-0c18f023a68d">
 </p>
 <p align="center">
   <img src="">
