@@ -13,7 +13,7 @@ Link: [https://ctf.hacker101.com/ctf](https://ctf.hacker101.com/)
   <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/d181e7f1-2af2-451b-a304-0c18f023a68d">
 </p>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/c5cd9034-2dee-41e6-b5e7-bc24ad912ebd">
 </p>
 <p align="center">
   <img src="">
