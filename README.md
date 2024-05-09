@@ -39,6 +39,9 @@ Tech Used:
   <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/476ae33d-00be-4743-ba28-db4b452e19f8">
 </p>
 <p align="center">
+  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/4f4af7d7-a255-4158-84cf-0b2c8ed85a74">
+</p>
+<p align="center">
   <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/ebe3ac04-8c81-415f-913d-31a4ad5e031a">
 </p>
 
