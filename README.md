@@ -9,19 +9,19 @@ Tech Used:
 <h2> Flag 1 </h2>
 
 <p align="center">
-  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/afba3a4a-4e2a-4d2f-adde-ea3c03ea8809">
+  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/12789958-6d6b-43bc-af7e-676ff3d1a639">
 </p>
 <p align="center">
-  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/d181e7f1-2af2-451b-a304-0c18f023a68d">
+  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/3a6c46cb-ec69-4674-b427-1c4ef1427f07">
 </p>
 <p align="center">
-  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/b4c89c2d-3b05-4e14-af55-efc84adc0fba">
+  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/036daed2-5cb3-4559-9bde-07779e832c5d">
 </p>
 <p align="center">
-  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/36b3b6e0-a041-4762-b88a-6e1cc1502cf1">
+  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/2bb1d9e0-8c7f-48a1-8cf0-385522f2de33">
 </p>
 <p align="center">
-  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/1cd96263-b188-47fa-bf6d-686ce2652939">
+  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/5ffb2661-0f3f-4e75-af8c-54a000c15f88">
 
 
 </p>
