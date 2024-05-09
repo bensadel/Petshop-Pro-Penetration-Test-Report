@@ -18,10 +18,10 @@ Tech Used:
   <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/b4c89c2d-3b05-4e14-af55-efc84adc0fba">
 </p>
 <p align="center">
-  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/5407c83b-d414-46de-b55e-5d4d1c22d923">
+  <img src="">
 </p>
 <p align="center">
-  <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/ee5e60a6-b81a-41b2-b1b4-90a6dacbaa7c">
+  <img src="">
 
 
 </p>
