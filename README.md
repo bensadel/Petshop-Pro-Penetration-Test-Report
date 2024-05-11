@@ -65,4 +65,6 @@ I found Flag 2 by trying different URL endings and using Hydra THC with various 
   <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/9258e98d-394e-4e00-b17b-6e48a92802c2">
 </p>
 
+I found Flag 3 by using XSS scripting. Upon finding Flag 2, I noticed I had escalated privileges compared to my Flag 1 visit. One difference I noticed is that I could edit product item descriptions and save the changes I made. I input two XSS scripts, one in the name box and one in the description box. Both scripts were <img> tags with a src attribute of x and an onerror attribute of alert(1). Since the src attribute did not contain a valid src, the onerror attribute triggered an alert after saving the changes. After adding the modified item to the cart, the third flag appeared.
+
 
