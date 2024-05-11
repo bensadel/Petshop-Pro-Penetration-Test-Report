@@ -45,6 +45,8 @@ I found Flag 1 by using the Google Chrome Developer Tools. I changed the price i
   <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/ebe3ac04-8c81-415f-913d-31a4ad5e031a">
 </p>
 
+I found Flag 2 by trying different URL endings and using Hydra THC with various world lists. After confirming the existence of a login page, I attempted to guess usernames and passwords. With no luck, I decided to move to Hydra. The first script I ran confirmed the username was correct by ensuring the "Invalid username" message changed to "Invalid password" while using a dummy password of "test". Furthermore, after obtaining the username, I ran the following script for the password using the valid username. When using the correct credentials to log in, the second flag appeared.
+
 <h2> Flag 3 </h2>
 
 <p align="center">
