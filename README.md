@@ -23,9 +23,9 @@ Tech Used:
 </p>
 <p align="center">
   <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/5ffb2661-0f3f-4e75-af8c-54a000c15f88">
-
-
 </p>
+
+I found Flag 1 by using the Google Chrome Developer Tools. I changed the price integer of the added photograph from $7.95 to a negative integer -1. After saving my changes and clicking checkout, the first flag appeared. 
 
 <h2> Flag 2 </h2>
 
