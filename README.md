@@ -29,6 +29,8 @@ Link: [https://ctf.hacker101.com/ctf](https://ctf.hacker101.com/)
   <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/5ffb2661-0f3f-4e75-af8c-54a000c15f88">
 </p>
 
+<br>
+
 I found Flag 1 by using the Google Chrome Developer Tools. I changed the price integer of the added photograph from $7.95 to a negative integer -1. After saving my changes and clicking checkout, the first flag appeared. 
 
 <h2> Flag 2 </h2>
@@ -49,6 +51,8 @@ I found Flag 1 by using the Google Chrome Developer Tools. I changed the price i
   <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/ebe3ac04-8c81-415f-913d-31a4ad5e031a">
 </p>
 
+<br>
+
 I found Flag 2 by trying different URL endings and using Hydra THC with various world lists. After confirming the existence of a login page, I attempted to guess usernames and passwords. With no luck, I decided to move to Hydra. The first script I ran confirmed the username was correct by ensuring the "Invalid username" message changed to "Invalid password" while using a dummy password of "test". Furthermore, after obtaining the username, I ran the following script for the password using the valid username. When using the correct credentials to log in, the second flag appeared.
 
 <h2> Flag 3 </h2>
@@ -68,6 +72,8 @@ I found Flag 2 by trying different URL endings and using Hydra THC with various 
 <p align="center">
   <img src="https://github.com/bensadel/PetshopPro-Hacker101/assets/95494769/9258e98d-394e-4e00-b17b-6e48a92802c2">
 </p>
+
+<br>
 
 I found Flag 3 by using XSS scripting. Upon finding Flag 2, I noticed I had escalated privileges compared to my Flag 1 visit. One difference I noticed is that I could edit product item descriptions and save the changes I made. I input two XSS scripts, one in the name box and one in the description box. Both scripts were <img> tags with a src attribute of x and an onerror attribute of alert(1). Since the src attribute did not contain a valid src, the onerror attribute triggered an alert after saving the changes. After adding the modified item to the cart, the third flag appeared.
 
